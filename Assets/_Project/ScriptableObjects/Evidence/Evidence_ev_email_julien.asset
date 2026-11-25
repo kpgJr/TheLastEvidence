@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_email_julien
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_email_julien
+  title: Courriel de Julien Roy
+  description: "Julien Roy \xE0 Victor, 10 octobre : \xAB Je passerai r\xE9cup\xE9rer mes affaires personnelles aux archives. Mon badge fonctionne encore. Je regrette ma lettre de septembre, \xE9crite sous le coup de la col\xE8re. \xBB"
+  category: 1
+  location: Ordinateur de Victor
+  timelineEntry: 
+  timelineMinutes: -1
+  relatedSuspects:
+  - {fileID: 11400000, guid: 7f8e5c3a9bee3658faa3504d328c8d05, type: 2}

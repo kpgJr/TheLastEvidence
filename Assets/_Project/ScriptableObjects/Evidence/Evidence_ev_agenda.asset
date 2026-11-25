@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_agenda
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_agenda
+  title: Agenda de Victor
+  description: "Page du 14 octobre : \xAB 19 h - Claire (encore l'argent\u2026) \xBB ; \xAB 21 h - M. - dossier des virements. Garder les preuves sous la main. \xBB"
+  category: 1
+  location: Bureau de la victime
+  timelineEntry: "21 h 00 - Rendez-vous pr\xE9vu avec \xAB M. \xBB au sujet des virements"
+  timelineMinutes: 1260
+  relatedSuspects:
+  - {fileID: 11400000, guid: 07ba015bb46f5aec49f4d7e8df6a8e4c, type: 2}
+  - {fileID: 11400000, guid: 8c8cce9423af7b8ffa37093fd268bab8, type: 2}

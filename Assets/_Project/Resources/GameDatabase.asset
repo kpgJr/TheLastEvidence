@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ebc0f40531c17098ce79cb0869efe, type: 3}
+  m_Name: GameDatabase
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.GameDatabase
+  caseData: {fileID: 11400000, guid: 89315fc53e056d3d28af9a8616e79cbf, type: 2}
+  items:
+  - {fileID: 11400000, guid: 16f39190e74a7124681632058f5fe678, type: 2}
+  - {fileID: 11400000, guid: f0c0244783bb7e32581b37e58712e8e5, type: 2}
+  - {fileID: 11400000, guid: 37e6de175e6b2e0fd9ef6e54aa0da7ba, type: 2}
+  - {fileID: 11400000, guid: 8c3f4b64b52d8487f8d9d94c9501f7aa, type: 2}
+  evidence:
+  - {fileID: 11400000, guid: 2715479ad2ff163b69a033adf6d8b80b, type: 2}
+  - {fileID: 11400000, guid: f55d3d50f4f1c4f9d88cd689e99af6da, type: 2}
+  - {fileID: 11400000, guid: 553c607236e7d3239bf2e73db186445d, type: 2}
+  - {fileID: 11400000, guid: 4e35bd7dbcc28c84ebcb181dedb340b3, type: 2}
+  - {fileID: 11400000, guid: cb40b86e744c6761d945d8b73fc25f20, type: 2}
+  - {fileID: 11400000, guid: 5f8cac75fcdd23a2985a5e50920e8736, type: 2}
+  - {fileID: 11400000, guid: d3b10e2a75d26565eb2ffac8ce432c51, type: 2}
+  - {fileID: 11400000, guid: f52e86d683e39dde3b878cf6240a3ef6, type: 2}
+  - {fileID: 11400000, guid: f9b73a736f31dc2b5b9ff632598cecfe, type: 2}
+  - {fileID: 11400000, guid: 966c0965c07cb8a3693105eb454d1384, type: 2}
+  - {fileID: 11400000, guid: 2d42683138b46af849c141730d9def3b, type: 2}
+  - {fileID: 11400000, guid: 7630b857da3f968e48d5f3469b8bbcda, type: 2}
+  - {fileID: 11400000, guid: c923619bc4c75547192de641c20943f9, type: 2}
+  - {fileID: 11400000, guid: 6e611faaeca599a658008eb7e5ed7c1e, type: 2}
+  - {fileID: 11400000, guid: 4967dac2de162bdbda161adc3a61a5b4, type: 2}
+  - {fileID: 11400000, guid: 8a68785ec6265956db0e18ba719d6a12, type: 2}
+  - {fileID: 11400000, guid: 252bec155b38392abaa10adaacef9776, type: 2}
+  - {fileID: 11400000, guid: 138e5048d83d816198e0280de5505168, type: 2}
+  - {fileID: 11400000, guid: f5ce133281e2c2512911aef856cfd778, type: 2}
+  suspects:
+  - {fileID: 11400000, guid: 07ba015bb46f5aec49f4d7e8df6a8e4c, type: 2}
+  - {fileID: 11400000, guid: 8c8cce9423af7b8ffa37093fd268bab8, type: 2}
+  - {fileID: 11400000, guid: 7f8e5c3a9bee3658faa3504d328c8d05, type: 2}
+  pointerMaterial: {fileID: 2100000, guid: 8fcc6365aead11d5c89b1cd9f5395ef9, type: 2}
+  defaultMaterial: {fileID: 2100000, guid: b92de2dcb80ec201a9b87050547af959, type: 2}
+  handMaterial: {fileID: 2100000, guid: 8d86d3aaa8824208a9db50e7ab6f1ac3, type: 2}

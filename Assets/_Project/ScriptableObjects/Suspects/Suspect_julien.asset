@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbad6b60165a61b338dc7b485541526e, type: 3}
+  m_Name: Suspect_julien
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.SuspectData
+  id: julien
+  fullName: Julien Roy
+  role: Ancien comptable
+  profile: "41 ans, licenci\xE9 en juillet pour des \xAB erreurs comptables \xBB qu'il conteste toujours."
+  potentialMotive: "Rancune apr\xE8s son licenciement ; a envoy\xE9 une lettre de menace."
+  alibi: "Affirme ne pas avoir mis les pieds dans le b\xE2timent ce soir-l\xE0."
+  portraitColor: {r: 0.55, g: 0.62, b: 0.45, a: 1}

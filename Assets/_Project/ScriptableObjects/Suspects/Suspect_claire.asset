@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbad6b60165a61b338dc7b485541526e, type: 3}
+  m_Name: Suspect_claire
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.SuspectData
+  id: claire
+  fullName: Claire Lemaire
+  role: "Ni\xE8ce de la victime"
+  profile: "28 ans, \xE9tudiante en architecture, cribl\xE9e de dettes. Seule famille de Victor."
+  potentialMotive: "Principale h\xE9riti\xE8re ; s'est disput\xE9e avec son oncle au sujet d'argent le soir du drame."
+  alibi: "Dit \xEAtre rentr\xE9e directement chez elle apr\xE8s sa visite de 19 h."
+  portraitColor: {r: 0.75, g: 0.55, b: 0.45, a: 1}

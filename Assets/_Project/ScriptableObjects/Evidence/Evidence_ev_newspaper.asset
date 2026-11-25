@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_newspaper
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_newspaper
+  title: "Article : licenciement contest\xE9"
+  description: "Le Courrier, 3 juillet : \xAB Julien Roy, comptable licenci\xE9 par Lemaire Capital, affirme servir de bouc \xE9missaire pour des irr\xE9gularit\xE9s dont il ne serait pas responsable. \xBB"
+  category: 1
+  location: Salle des archives
+  timelineEntry: 
+  timelineMinutes: -1
+  relatedSuspects:
+  - {fileID: 11400000, guid: 7f8e5c3a9bee3658faa3504d328c8d05, type: 2}

@@ -1,0 +1,23 @@
+# ninja log v5
+0	1290	1795482101630916598	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1ae4a21819b23a65
+2	111	1795482100460070913	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9a7c2bd21cdc44f
+1	979	1795482101321054772	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3b6f7201ce9f5ff9
+1	1294	1795482101636279097	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	aa622ca74f541838
+1294	1320	1795482101668927061	/home/kpg_jr/UdeM/VR/TheLastEvidence/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4z1750/obj/arm64-v8a/libgame.so	aa4703f92ea97bc0
+1	869	1795482101210344328	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	96dd16a836612f6c
+1	884	1795482101223711370	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	62cb5efc410b0193
+1	936	1795482101278965471	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	367e3db1ad57cec1
+2	924	1795482101264452832	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	40c94fab32b1daf9
+113	167	1795482100512917799	/home/kpg_jr/UdeM/VR/TheLastEvidence/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4z1750/obj/arm64-v8a/libswappywrapper.so	600b47d630dadeb2
+2	1073	1795482101413543141	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f7401d9c1baf3d87
+21	314	1795494786263391538	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9a7c2bd21cdc44f
+315	482	1795494786432268701	/home/kpg_jr/UdeM/VR/TheLastEvidence/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4z1750/obj/arm64-v8a/libswappywrapper.so	600b47d630dadeb2
+16	1384	1795494787330208921	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	62cb5efc410b0193
+18	1397	1795494787344411782	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3b6f7201ce9f5ff9
+19	1409	1795494787354321605	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	40c94fab32b1daf9
+16	1444	1795494787388982415	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	96dd16a836612f6c
+16	1489	1795494787433447522	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	367e3db1ad57cec1
+20	1534	1795494787481259440	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f7401d9c1baf3d87
+17	1751	1795494787698453836	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	aa622ca74f541838
+15	1835	1795494787779936168	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1ae4a21819b23a65
+1835	1861	1795494787815519518	/home/kpg_jr/UdeM/VR/TheLastEvidence/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4z1750/obj/arm64-v8a/libgame.so	aa4703f92ea97bc0

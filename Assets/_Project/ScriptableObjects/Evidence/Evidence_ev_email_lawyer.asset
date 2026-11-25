@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_email_lawyer
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_email_lawyer
+  title: "Courriel \xE0 l'avocat"
+  description: "Victor \xE0 Me Gagnon, 13 octobre : \xAB J'ai la preuve que Marc d\xE9tourne des fonds depuis un an et demi. Je le confronte demain soir et je porte plainte lundi. Pr\xE9parez la dissolution de l'association. \xBB"
+  category: 1
+  location: Ordinateur de Victor
+  timelineEntry: 
+  timelineMinutes: -1
+  relatedSuspects:
+  - {fileID: 11400000, guid: 07ba015bb46f5aec49f4d7e8df6a8e4c, type: 2}

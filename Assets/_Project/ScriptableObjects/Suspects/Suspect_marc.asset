@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbad6b60165a61b338dc7b485541526e, type: 3}
+  m_Name: Suspect_marc
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.SuspectData
+  id: marc
+  fullName: Marc Dubois
+  role: "Associ\xE9 de la victime"
+  profile: "54 ans, cofondateur de Lemaire Capital. \xC9l\xE9gant, influent, toujours au c\u0153ur des r\xE9seaux d'affaires."
+  potentialMotive: "Victor s'appr\xEAtait peut-\xEAtre \xE0 rompre leur association."
+  alibi: "Affirme avoir pass\xE9 toute la soir\xE9e au gala de la Chambre de commerce, de 20 h \xE0 23 h 30."
+  portraitColor: {r: 0.45, g: 0.55, b: 0.68, a: 1}

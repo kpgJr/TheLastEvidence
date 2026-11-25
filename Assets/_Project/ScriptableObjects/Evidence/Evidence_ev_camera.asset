@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_camera
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_camera
+  title: "Image de vid\xE9osurveillance"
+  description: "Cam\xE9ra de la porte arri\xE8re, 21 h 09 : une silhouette en smoking, \xE9charpe blanche, le visage cach\xE9 par un parapluie. La cam\xE9ra s'\xE9teint trois minutes plus tard."
+  category: 4
+  location: Salle de surveillance
+  timelineEntry: 
+  timelineMinutes: -1
+  relatedSuspects:
+  - {fileID: 11400000, guid: 07ba015bb46f5aec49f4d7e8df6a8e4c, type: 2}

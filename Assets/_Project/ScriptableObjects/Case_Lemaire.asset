@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e1d5d92be6a7facbab94365249a040c, type: 3}
+  m_Name: Case_Lemaire
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.CaseData
+  caseTitle: L'affaire Lemaire
+  caseSummary: "Le 14 octobre au soir, Victor Lemaire, fondateur de la soci\xE9t\xE9 d'investissement Lemaire Capital, a \xE9t\xE9 retrouv\xE9 mort dans son bureau. La police a conclu \xE0 un arr\xEAt cardiaque et class\xE9 l'affaire.\n\nUn message anonyme affirme le contraire : Victor aurait \xE9t\xE9 assassin\xE9 et les preuves seraient cach\xE9es dans le b\xE2timent. La porte principale s'est verrouill\xE9e derri\xE8re vous. Pour sortir, il faudra d\xE9couvrir la v\xE9rit\xE9.\n\nTrois personnes gravitaient autour de Victor : son associ\xE9, sa ni\xE8ce et un ancien employ\xE9."
+  suspects:
+  - {fileID: 11400000, guid: 07ba015bb46f5aec49f4d7e8df6a8e4c, type: 2}
+  - {fileID: 11400000, guid: 8c8cce9423af7b8ffa37093fd268bab8, type: 2}
+  - {fileID: 11400000, guid: 7f8e5c3a9bee3658faa3504d328c8d05, type: 2}
+  motives:
+  - "Dissimuler une fraude sur le point d'\xEAtre d\xE9nonc\xE9e"
+  - "H\xE9riter de la fortune de Victor"
+  - Se venger d'un licenciement
+  - "R\xE9gler une dispute d'argent familiale"
+  culprit: {fileID: 11400000, guid: 07ba015bb46f5aec49f4d7e8df6a8e4c, type: 2}
+  correctMotiveIndex: 0
+  keyEvidence:
+  - {fileID: 11400000, guid: 553c607236e7d3239bf2e73db186445d, type: 2}
+  - {fileID: 11400000, guid: cb40b86e744c6761d945d8b73fc25f20, type: 2}
+  - {fileID: 11400000, guid: 5f8cac75fcdd23a2985a5e50920e8736, type: 2}
+  - {fileID: 11400000, guid: f52e86d683e39dde3b878cf6240a3ef6, type: 2}
+  - {fileID: 11400000, guid: 966c0965c07cb8a3693105eb454d1384, type: 2}
+  - {fileID: 11400000, guid: 6e611faaeca599a658008eb7e5ed7c1e, type: 2}
+  - {fileID: 11400000, guid: 4967dac2de162bdbda161adc3a61a5b4, type: 2}
+  - {fileID: 11400000, guid: 8a68785ec6265956db0e18ba719d6a12, type: 2}
+  - {fileID: 11400000, guid: 252bec155b38392abaa10adaacef9776, type: 2}
+  - {fileID: 11400000, guid: f5ce133281e2c2512911aef856cfd778, type: 2}
+  minimumKeyEvidence: 4
+  truthSummary: "Marc Dubois d\xE9tournait l'argent de Lemaire Capital vers sa soci\xE9t\xE9 \xE9cran, M.D. Holdings. Victor l'avait d\xE9couvert et comptait porter plainte.\n\nLe 14 octobre, Marc s'\xE9clipse du gala vers 21 h. Il entre par la porte arri\xE8re gr\xE2ce au code de maintenance obtenu la veille, puis retire un fusible de la bo\xEEte \xE9lectrique \xE0 21 h 12 pour aveugler les cam\xE9ras. Victor le re\xE7oit et lui sert un whisky. Profitant d'un instant d'inattention, Marc verse de la digitaline dans le verre de Victor, dont le c\u0153ur fragile l\xE2che quelques minutes plus tard. Il emporte une partie des dossiers et retourne au gala.\n\nClaire \xE9tait seulement venue r\xE9clamer de l'argent plus t\xF4t dans la soir\xE9e, et Julien \xE9tait pass\xE9 r\xE9cup\xE9rer ses affaires : deux fausses pistes.\n\nLe message anonyme venait de Sophie Tremblay, l'assistante de Victor, qui avait cach\xE9 les preuves avant le classement de l'affaire. M\xE9fiant, Victor avait install\xE9 une cam\xE9ra cach\xE9e reli\xE9e \xE0 sa pi\xE8ce secr\xE8te."
+  goodEndingText: "Face au rapport d'audit, aux virements, au registre des entr\xE9es et \xE0 la vid\xE9o de la cam\xE9ra cach\xE9e, Marc Dubois passe aux aveux. L'affaire Lemaire est rouverte : le meurtrier r\xE9pondra de ses actes."
+  incompleteEndingText: "Vous avez d\xE9sign\xE9 le bon suspect, mais votre dossier ne tient pas : mobile mal \xE9tabli ou preuves insuffisantes. L'avocat de Marc Dubois obtient l'abandon des poursuites. Le doute demeure\u2026"
+  badEndingText: "Votre accusation s'effondre : la personne d\xE9sign\xE9e est innocente. Pendant que l'enqu\xEAte s'\xE9gare, le v\xE9ritable coupable efface ses traces. L'affaire Lemaire est de nouveau class\xE9e."

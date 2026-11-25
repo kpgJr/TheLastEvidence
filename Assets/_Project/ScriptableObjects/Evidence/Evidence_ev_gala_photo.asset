@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_gala_photo
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_gala_photo
+  title: Photos du gala
+  description: "Deux photos du gala de la Chambre de commerce prises par Sophie, l'assistante de Victor. 20 h 15 : Marc Dubois en smoking, \xE9charpe blanche. 21 h 30 : sa chaise, \xE0 la table 4, est vide."
+  category: 2
+  location: Salle des archives
+  timelineEntry: "21 h 30 - Marc Dubois n'est plus \xE0 sa table au gala"
+  timelineMinutes: 1290
+  relatedSuspects:
+  - {fileID: 11400000, guid: 07ba015bb46f5aec49f4d7e8df6a8e4c, type: 2}

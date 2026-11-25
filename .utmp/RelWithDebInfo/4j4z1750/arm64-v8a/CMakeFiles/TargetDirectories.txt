@@ -1,0 +1,8 @@
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/home/kpg_jr/UdeM/VR/TheLastEvidence/.utmp/RelWithDebInfo/4j4z1750/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

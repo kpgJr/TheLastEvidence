@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_message
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_message
+  title: Message anonyme
+  description: "\xAB Victor Lemaire n'est pas mort d'un accident : il a \xE9t\xE9 empoisonn\xE9. Les preuves sont cach\xE9es dans ce b\xE2timent. Le temps garde la cl\xE9 de son bureau : l'horloge s'est arr\xEAt\xE9e \xE0 l'heure o\xF9 l'on a d\xE9couvert son corps. \xBB - Un ami"
+  category: 1
+  location: "Hall d'entr\xE9e"
+  timelineEntry: 
+  timelineMinutes: -1
+  relatedSuspects: []

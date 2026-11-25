@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d545cd44fff7fbeaab7aab3db7ca1b5, type: 3}
+  m_Name: Evidence_ev_police
+  m_EditorClassIdentifier: LastEvidence.Runtime::LastEvidence.EvidenceData
+  id: ev_police
+  title: "Rapport de police pr\xE9liminaire"
+  description: "Victor Lemaire, 61 ans, retrouv\xE9 sans vie dans son bureau le 14 octobre \xE0 23 h par le gardien. Conclusion : arr\xEAt cardiaque (ant\xE9c\xE9dents connus). Aucune autopsie. Dossier class\xE9."
+  category: 1
+  location: "Hall d'entr\xE9e (tableau d'affichage)"
+  timelineEntry: "23 h 00 - Le gardien d\xE9couvre le corps de Victor"
+  timelineMinutes: 1380
+  relatedSuspects: []
